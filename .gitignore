@@ -1,3 +1,4 @@
 *.exe
 ex[0-99]
 ex01.dSYM
+.DS_Store
