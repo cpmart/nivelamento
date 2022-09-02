@@ -1,1 +1,5 @@
 *.exe
+.gitignore
+ex1.dSYM/Contents
+ex\[01\]
+.vscode
