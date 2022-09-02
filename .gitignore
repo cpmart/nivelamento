@@ -1,4 +1,5 @@
 *.exe
-ex[0-99]
+ex[0-9]
 ex01.dSYM
+.DS_Store
 .DS_Store
