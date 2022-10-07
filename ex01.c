@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 int main(){
-	int numero;
-	scanf("%d",&numero);
-	printf("O valor do número: %d\n", numero);
-	printf("O valor do número: %d\n", numero);
-	printf("O dobro do número: %d\n", 2*numero);	
-	printf("O dobro do número: %d\n", 2*numero);	
+	int idade;
+	printf("Digite sua idade: ");
+	printf("\a");		//som
+	scanf("%d",&idade);
+	printf("O dobro da sua idade é: %d anos\n",idade*2);
 }
